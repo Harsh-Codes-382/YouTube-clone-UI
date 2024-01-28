@@ -20,5 +20,5 @@ To view the YouTube clone locally, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/your-username/youtube-clone-frontend.git](https://github.com/Harsh-Codes-382/YouTube-clone-UI.git)https://github.com/Harsh-Codes-382/YouTube-clone-UI.git
+   git clone https://github.com/Harsh-Codes-382/YouTube-clone-UI.git
 
